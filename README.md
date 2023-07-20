@@ -1,2 +1,2 @@
-# Python-in-school
-here are the codes i created in my 11th and 12th grade in python language inn my school
+# Python-in-11th
+here are the codes I created in my 11th grade in Python language at my school
